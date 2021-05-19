@@ -1,0 +1,109 @@
+[
+
+  {
+    "name": "Simran kaur",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+    "video_url":"https://www.youtube.com/watch?v=it29M1nkn38.mp4",
+    "asset_type":"video",
+    "discription":"HEY i am simran Kaur ",
+    "age": 28
+  },
+  {
+    "name": "vaishali",
+    "photo": "https://randomuser.me/api/portraits/women/65.jpg",
+    "pic":  "https://cdn.pixabay.com/photo/2020/06/18/18/53/the-cliffs-5314651_960_720.jpg",
+    "asset_type":"pic",
+    "discription":"One of the oldest forms of knowledge providers are books",
+    "age": 28
+  },
+  {
+    "name": "Ram singh",
+    "photo": "https://randomuser.me/api/portraits/men/52.jpg",
+    "discription":" One of the oldest forms of knowledge providers are books; therefore, they are also called the powerhouse of knowledge and information. Books provide us information without asking for anything in return, and often it is considered as the best company a human can have.",
+    "age": 50
+  },
+  {
+    "name": "sham singh",
+    "photo": "https://randomuser.me/api/portraits/men/21.jpg",
+    "pic": "https://cdn.pixabay.com/photo/2020/02/25/19/16/stawberry-4879794_960_720.jpg",
+    "asset_type":"pic",
+    "discription":"hey this is my profile",
+    "age": 30
+  },
+  
+  {
+    "name": "Nand singh",
+    "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+    "video_url":"https://www.youtube.com/watch?v=kffacxfA7G4",
+    "discription":"hey this is my profile",
+    "age": 52
+  },
+  
+  {
+    "name": "julie bhardwaj",
+    "photo": "https://randomuser.me/api/portraits/women/29.jpg",
+    "discription":"One of the oldest forms of knowledge providers are books; therefore, they are also called the powerhouse of knowledge and information.",
+    "age": 44
+  },
+  {
+    "name": " empty name",
+    "photo": "https://randomuser.me/api/portraits/women/85.jpg",
+    "pic":  "https://cdn.pixabay.com/photo/2018/03/31/06/31/dog-3277416_960_720.jpg",
+    "asset_type":"pic",
+    "discription":"hey this is my profile",
+    "age": 42
+  },
+  {
+    "name": "Rashi kapoor",
+    "photo": "https://randomuser.me/api/portraits/women/65.jpg",
+    "video_url":"https://www.youtube.com/watch?v=it29M1nkn38.mp4",
+    "discription":"hey this is my profile",
+    "age": 69
+  },
+  {
+    "name": "Maray kaur",
+    "photo": "https://randomuser.me/api/portraits/men/97.jpg",
+    "pic":"https://cdn.pixabay.com/photo/2020/06/18/09/42/flowers-5312741_960_720.jpg",
+    "asset_type":"pic",
+    "discription":"hey this is my profile",
+    "age": 42
+  },
+  {
+    "name": "Vishnu singh",
+    "photo": "https://randomuser.me/api/portraits/men/23.jpg",
+    "pic": "https://cdn.pixabay.com/photo/2020/06/14/03/09/women-5296386_960_720.jpg",
+    "asset_type":"pic",
+"discription":"hey this is my profile",
+    "age": 36
+  },
+  {
+    "name": "old lady",
+    "photo": "https://randomuser.me/api/portraits/women/55.jpg",
+    "pic":"https://cdn.pixabay.com/photo/2017/10/18/16/08/wolf-2864647_960_720.jpg",
+    "discription":"hey this is my profile",
+    "age": 68
+  },
+  {
+    "name": "Reema",
+    "photo": "https://randomuser.me/api/portraits/men/21.jpg",
+    "pic": "https://cdn.pixabay.com/photo/2020/06/14/11/23/wanderer-5297457_960_720.jpg",
+    "asset_type":"pic",
+    "discription":"hey this is my profile",
+    "age": 39
+  },
+  {
+    "name": "sandeep singh",
+    "photo": "https://randomuser.me/api/portraits/men/87.jpg",
+    "video_url":"https://www.youtube.com/watch?v=it29M1nkn38.mp4",
+    "discription":"hello",
+    "age": 28
+  },
+  {
+    "name": "julie kaur",
+    "photo": "https://randomuser.me/api/portraits/women/14.jpg",
+    "pic":  "https://cdn.pixabay.com/photo/2019/12/11/15/12/dogs-4688586_960_720.jpg",
+"asset_type":"pic",
+    "discription":"hey this is my profile",
+    "age": 62
+  }
+]
